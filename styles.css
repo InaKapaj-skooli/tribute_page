@@ -1,0 +1,37 @@
+#main {
+background-color: #eee;
+}
+
+#title, #description, #img-caption, #list-title, #tribute-info{
+  text-align: center;
+}
+
+#img-div {
+  background-color: white;
+}
+
+#image {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 100%;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+  width: 50%;
+}
+
+li {
+  padding-bottom: 3%;
+}
+
+#italic {
+  font-style: italic;
+}
+
+#tribute-link {
+  text-decoration: underline;
+  color: #477ca7;
+}
